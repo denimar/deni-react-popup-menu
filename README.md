@@ -28,7 +28,6 @@ Added to your react component
        </DeniReactPopupMenuItem>
        <DeniReactPopupMenuItem text="Item 03" />
     </DeniReactPopupMenu>    
-
 ```
 For more details: [examples](https://denimar.github.io/deni-react-popup-menu/examples)
 

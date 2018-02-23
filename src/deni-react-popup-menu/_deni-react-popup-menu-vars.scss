@@ -1,9 +1,0 @@
-$popup-menu-background-color: #EFF0F0;
-$popup-menu-font-color:  #404040;
-
-@mixin no-select-mixin {
-  -webkit-user-select: none; /* Safari 3.1+ */
-    -moz-user-select: none; /* Firefox 2+ */
-      -ms-user-select: none; /* IE 10+ */
-        user-select: none; /* Standard syntax */
-}

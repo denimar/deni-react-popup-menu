@@ -1,0 +1,17 @@
+@import '_deni-react-popup-menu-vars';
+
+.deni-react-popup-menu-container {
+  z-index: 9999;
+  background-color: $popup-menu-background-color;
+  border: 1px solid #ccc;
+  border-color: rgba(0,0,0,.2);
+  box-shadow: 0 2px 10px rgba(0,0,0,.2);
+  position: absolute;
+  display: none;
+  box-sizing: border-box;
+  color: $popup-menu-font-color;
+
+  * {
+    box-sizing: border-box;
+  }
+}

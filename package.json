@@ -1,6 +1,6 @@
 {
   "name": "deni-react-popup-menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Denimar de Moraes <denimar@gmail.com>",
   "description": "A simple but useful popup menu for React.",
   "main": "build/deni-react-popup-menu.js",
@@ -50,6 +50,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.6.2",
+    "react-icons": "^2.2.7",
     "react-syntax-highlighter": "^6.1.1"
   }
 }

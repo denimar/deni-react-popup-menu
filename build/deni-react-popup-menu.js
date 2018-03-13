@@ -1850,7 +1850,6 @@ var DeniReactPopupMenuTrigger = function (_React$Component) {
         'div',
         {
           ref: function ref(elem, elem2) {
-            console.log(elem);
             _this2.element = elem;
           },
           className: 'deni-react-popup-menu-trigger-container',

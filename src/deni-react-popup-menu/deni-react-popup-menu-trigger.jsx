@@ -70,7 +70,6 @@ class DeniReactPopupMenuTrigger extends React.Component {
     return (
       <div
         ref={(elem, elem2)=> {
-          console.log(elem);
           this.element = elem
         }}
         className="deni-react-popup-menu-trigger-container"

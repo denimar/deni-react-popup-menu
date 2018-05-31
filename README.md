@@ -2,7 +2,7 @@
 A simple but useful popup menu for React
 
 
-[examples](https://denimar.github.io/deni-react-popup-menu/examples)
+[demo](https://denimar.github.io/deni-react-popup-menu/examples)
 
 TODO: In the future I will implement the theming, tests and Cloud CI.
 
